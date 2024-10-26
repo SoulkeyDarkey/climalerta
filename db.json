@@ -1,0 +1,198 @@
+[
+  {
+    "Data_Registro": "21/01/1995",
+    "descricao_tipologia": "Enxurradas",
+    "DH_MORTOS": 0,
+    "DH_total_danos_humanos": 1027,
+    "DM_total_danos_materiais": 0
+  },
+  {
+    "Data_Registro": "28/12/1995",
+    "descricao_tipologia": "Enxurradas",
+    "DH_MORTOS": 0,
+    "DH_total_danos_humanos": 0,
+    "DM_total_danos_materiais": 0
+  },
+  {
+    "Data_Registro": "30/01/1996",
+    "descricao_tipologia": "Vendavais e Ciclones",
+    "DH_MORTOS": 0,
+    "DH_total_danos_humanos": 15,
+    "DM_total_danos_materiais": 0
+  },
+  {
+    "Data_Registro": "20/06/1996",
+    "descricao_tipologia": "Enxurradas",
+    "DH_MORTOS": 0,
+    "DH_total_danos_humanos": 467,
+    "DM_total_danos_materiais": 0
+  },
+  {
+    "Data_Registro": "04/02/2001",
+    "descricao_tipologia": "Inunda‡äes",
+    "DH_MORTOS": 0,
+    "DH_total_danos_humanos": 56,
+    "DM_total_danos_materiais": 111710
+  },
+  {
+    "Data_Registro": "01/10/2001",
+    "descricao_tipologia": "Inunda‡äes",
+    "DH_MORTOS": 0,
+    "DH_total_danos_humanos": 184,
+    "DM_total_danos_materiais": 568500
+  },
+  {
+    "Data_Registro": "07/05/2004",
+    "descricao_tipologia": "Enxurradas",
+    "DH_MORTOS": 0,
+    "DH_total_danos_humanos": 107,
+    "DM_total_danos_materiais": 1060000
+  },
+  {
+    "Data_Registro": "14/09/2004",
+    "descricao_tipologia": "Enxurradas",
+    "DH_MORTOS": 0,
+    "DH_total_danos_humanos": 334,
+    "DM_total_danos_materiais": 1579600
+  },
+  {
+    "Data_Registro": "04/01/2009",
+    "descricao_tipologia": "Enxurradas",
+    "DH_MORTOS": 0,
+    "DH_total_danos_humanos": 20980,
+    "DM_total_danos_materiais": 1260000
+  },
+  {
+    "Data_Registro": "05/04/2010",
+    "descricao_tipologia": "Enxurradas",
+    "DH_MORTOS": 0,
+    "DH_total_danos_humanos": 0,
+    "DM_total_danos_materiais": 0
+  },
+  {
+    "Data_Registro": "12/05/2010",
+    "descricao_tipologia": "Inunda‡äes",
+    "DH_MORTOS": 0,
+    "DH_total_danos_humanos": 4,
+    "DM_total_danos_materiais": 0
+  },
+  {
+    "Data_Registro": "20/01/2011",
+    "descricao_tipologia": "Enxurradas",
+    "DH_MORTOS": 0,
+    "DH_total_danos_humanos": 9450,
+    "DM_total_danos_materiais": 0
+  },
+  {
+    "Data_Registro": "18/03/2014",
+    "descricao_tipologia": "Vendavais e Ciclones",
+    "DH_MORTOS": 0,
+    "DH_total_danos_humanos": 20,
+    "DM_total_danos_materiais": 50000
+  },
+  {
+    "Data_Registro": "31/03/2015",
+    "descricao_tipologia": "Enxurradas",
+    "DH_MORTOS": 0,
+    "DH_total_danos_humanos": 230,
+    "DM_total_danos_materiais": 500000
+  },
+  {
+    "Data_Registro": "25/07/2016",
+    "descricao_tipologia": "ErosÆo",
+    "DH_MORTOS": 0,
+    "DH_total_danos_humanos": 0,
+    "DM_total_danos_materiais": 0
+  },
+  {
+    "Data_Registro": "03/07/2020",
+    "descricao_tipologia": "Vendavais e Ciclones",
+    "DH_MORTOS": 0,
+    "DH_total_danos_humanos": 3,
+    "DM_total_danos_materiais": 4050
+  },
+  {
+    "Data_Registro": "19/04/2022",
+    "descricao_tipologia": "Chuvas Intensas",
+    "DH_MORTOS": 0,
+    "DH_total_danos_humanos": 0,
+    "DM_total_danos_materiais": 0
+  },
+  {
+    "Data_Registro": "29/04/2022",
+    "descricao_tipologia": "Vendavais e Ciclones",
+    "DH_MORTOS": 0,
+    "DH_total_danos_humanos": 0,
+    "DM_total_danos_materiais": 0
+  },
+  {
+    "Data_Registro": "07/05/2022",
+    "descricao_tipologia": "Inunda‡äes",
+    "DH_MORTOS": 0,
+    "DH_total_danos_humanos": 26936,
+    "DM_total_danos_materiais": "50460598,09"
+  },
+  {
+    "Data_Registro": "07/10/2022",
+    "descricao_tipologia": "Alagamentos",
+    "DH_MORTOS": 0,
+    "DH_total_danos_humanos": 0,
+    "DM_total_danos_materiais": 0
+  },
+  {
+    "Data_Registro": "20/05/2022",
+    "descricao_tipologia": "Vendavais e Ciclones",
+    "DH_MORTOS": 0,
+    "DH_total_danos_humanos": 0,
+    "DM_total_danos_materiais": 0
+  },
+  {
+    "Data_Registro": "23/06/2022",
+    "descricao_tipologia": "Movimento de Massa",
+    "DH_MORTOS": 0,
+    "DH_total_danos_humanos": 0,
+    "DM_total_danos_materiais": 0
+  },
+  {
+    "Data_Registro": "11/08/2022",
+    "descricao_tipologia": "Alagamentos",
+    "DH_MORTOS": 0,
+    "DH_total_danos_humanos": 0,
+    "DM_total_danos_materiais": 0
+  },
+  {
+    "Data_Registro": "24/10/2022",
+    "descricao_tipologia": "Chuvas Intensas",
+    "DH_MORTOS": 0,
+    "DH_total_danos_humanos": 0,
+    "DM_total_danos_materiais": 0
+  },
+  {
+    "Data_Registro": "01/12/2022",
+    "descricao_tipologia": "Chuvas Intensas",
+    "DH_MORTOS": 0,
+    "DH_total_danos_humanos": 103,
+    "DM_total_danos_materiais": 400000
+  },
+  {
+    "Data_Registro": "04/12/2022",
+    "descricao_tipologia": "Chuvas Intensas",
+    "DH_MORTOS": 0,
+    "DH_total_danos_humanos": 0,
+    "DM_total_danos_materiais": 0
+  },
+  {
+    "Data_Registro": "20/06/2023",
+    "descricao_tipologia": "Alagamentos",
+    "DH_MORTOS": 0,
+    "DH_total_danos_humanos": 0,
+    "DM_total_danos_materiais": 0
+  },
+  {
+    "Data_Registro": "13/11/2023",
+    "descricao_tipologia": "Vendavais e Ciclones",
+    "DH_MORTOS": 0,
+    "DH_total_danos_humanos": 0,
+    "DM_total_danos_materiais": 0
+  }
+]
